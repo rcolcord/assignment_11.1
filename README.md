@@ -23,15 +23,15 @@ Key Findings
 
 The linear regression model performed the best, as determined by cross-validation. The Ridge and Lasso models performed comparable, so these models were aggregated to determine the average coefficient for each feature across the three models. Examining the coefficients for each feature, we can observe the following findings:
 - The most important factor in determining the price of a used car is the manufacturer. This goes in both directions - positive and negative.
- - The manufacturers with the largest positive impact on price were Ferrari, Tesla, Aston-Martin, Porsche, Datsun, and Alfo-Romero
- - The manufacturers with the largest negative impact on price were Fiat, Saturn, Mercury, Chrysler, Subaru, Mini, Nissan, Kia, Mazda, Hyundai
+-  The manufacturers with the largest positive impact on price were Ferrari, Tesla, Aston-Martin, Porsche, Datsun, and Alfo-Romero
+-  The manufacturers with the largest negative impact on price were Fiat, Saturn, Mercury, Chrysler, Subaru, Mini, Nissan, Kia, Mazda, Hyundai
 - Diesel and electric fuel types had a large positive impact on price.
- - Gas and hybrid vehicles had moderate negative impacts on price
+-  Gas and hybrid vehicles had moderate negative impacts on price
 - The number of cylinders had a moderately large impact on price
- - 8 and above cyliners had a large impact on price, while anything less than 8 had relatively moderate negative impacts
+-  8 and above cyliners had a large impact on price, while anything less than 8 had relatively moderate negative impacts
 - The condition of the car and the model year both had moderately large positive effects on price, as expected. However, the impact of the car condition was greater than the impact of model year.
 - The type of car had a moderate impact on price in both directions
- - Convertibles, coupes, trucks, offroad, and vans had positive impacts whereas sedans, wagons, SUVs, hatchbacks and minivans had negative impacts. Pickups had negligible impact.
+-  Convertibles, coupes, trucks, offroad, and vans had positive impacts whereas sedans, wagons, SUVs, hatchbacks and minivans had negative impacts. Pickups had negligible impact.
 - The size of vehicles had a small impact on price. Full-size and mid-size vehicles had small positive impact, while compacts and sub-compacts had small negative impact
 - Paint color had a mostly small impact in both directions, with the exception of the color orange, which had a moderately large positive impact on price
 
