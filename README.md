@@ -26,7 +26,7 @@ The linear regression model performed the best, as determined by cross-validatio
 - - The manufacturers with the largest positive impact on price were Ferrari, Tesla, Aston-Martin, Porsche, Datsun, and Alfo-Romero
 -  The manufacturers with the largest negative impact on price were Fiat, Saturn, Mercury, Chrysler, Subaru, Mini, Nissan, Kia, Mazda, Hyundai
 - Diesel and electric fuel types had a large positive impact on price.
--  Gas and hybrid vehicles had moderate negative impacts on price
+  - Gas and hybrid vehicles had moderate negative impacts on price
 - The number of cylinders had a moderately large impact on price
 -  8 and above cyliners had a large impact on price, while anything less than 8 had relatively moderate negative impacts
 - The condition of the car and the model year both had moderately large positive effects on price, as expected. However, the impact of the car condition was greater than the impact of model year.
