@@ -23,7 +23,7 @@ Key Findings
 
 The linear regression model performed the best, as determined by cross-validation. The Ridge and Lasso models performed comparable, so these models were aggregated to determine the average coefficient for each feature across the three models. Examining the coefficients for each feature, we can observe the following findings:
 - The most important factor in determining the price of a used car is the manufacturer. This goes in both directions - positive and negative.
--  The manufacturers with the largest positive impact on price were Ferrari, Tesla, Aston-Martin, Porsche, Datsun, and Alfo-Romero
+- - The manufacturers with the largest positive impact on price were Ferrari, Tesla, Aston-Martin, Porsche, Datsun, and Alfo-Romero
 -  The manufacturers with the largest negative impact on price were Fiat, Saturn, Mercury, Chrysler, Subaru, Mini, Nissan, Kia, Mazda, Hyundai
 - Diesel and electric fuel types had a large positive impact on price.
 -  Gas and hybrid vehicles had moderate negative impacts on price
